@@ -43,6 +43,6 @@ Credits:
 A big shoutout to DarkLunaios for their hard work and dedication in updating this tool. Also, thanks to the original developer, Poko, for laying the foundation. Let's keep the spirit of collaboration and learning alive!
 
 Disclaimer:
-Please use this tool responsibly and in accordance with the game's terms of service. Unauthorized distribution of game data can lead to penalties.
+Please use this tool responsibly .
 
 
